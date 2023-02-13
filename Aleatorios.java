@@ -8,7 +8,7 @@ public class Aleatorios {
 
 		//TODO Auto-generated method stub
 
-		int elementos=Integer.parseInt(JOptionPane.showInputDialog("Introduce elementos de la matriz"));
+		int elementos=Integer.parseInt(JOptionPane.showInputDialog("Escribe las posiciones de la matriz"));
 
 		int num_aleat[]=new int[elementos];
 
